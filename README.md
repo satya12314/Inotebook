@@ -1,3 +1,46 @@
+ # Login or Signup Page (maintaining backened and storing users data in MongoDb )
+   Password is Encrypted using JSON WEB Token
+   
+ # After Login user's personal notes is getting opened 
+ # Functionalities provided in the Notes Component are:
+   1> Add New Note
+   2> Edit Previos Note
+   3> Delete Previos Note
+   4> Button is getting disabled if there is no character in the Input Field
+   5> CRUD is Used
+   6.> Login and LogOut Functionalities are provided
+   
+ # Some important React Functionalitite that has been used in this project
+     Hooks are used like: 
+        1.> UseState
+        2.> UseEffect
+        3.> Context API
+        4.> Use Reducer
+ ScreenShot of the projects are :
+ 
+  # Login + SignUp Functionalities
+ 
+ ![Screenshot (135)](https://user-images.githubusercontent.com/62735655/154642941-7cfe7c30-297b-4c57-ae6c-a2ec01e561bd.png)
+ 
+ # Add Note
+ 
+ ![Screenshot (136)](https://user-images.githubusercontent.com/62735655/154643059-7277327d-a922-483b-a783-d70f47ef1959.png)
+ 
+ # Edit Note
+ 
+![Screenshot (137)](https://user-images.githubusercontent.com/62735655/154643145-c2554faf-81f9-4dee-97f5-7b1d9bc04acc.png)
+
+# New Note
+
+![Screenshot (138)](https://user-images.githubusercontent.com/62735655/154643233-e84399b2-5690-4bc5-a4e5-b7384facac67.png)
+
+ 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +111,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
